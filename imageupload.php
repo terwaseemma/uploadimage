@@ -8,9 +8,9 @@ require 'Api.php';
 
 
 \Cloudinary::config(array( 
-  "cloud_name" => "dnuraq8oa", 
-  "api_key" => "274545435744652", 
-  "api_secret" => "jflXJqU3PYSSqtRUAoVz3F1D4dU" 
+  "cloud_name" => "terwase", 
+  "api_key" => "698344456189593", 
+  "api_secret" => "CRoOrv9pAklHaS6MTskKx8GNKcs" 
 ));
 
 $target_dir = "uploads/";
